@@ -1,0 +1,461 @@
+1	Google assimilates YouTube !	Google	assimilates	YouTube	1	Correct
+2	 finally google bought  youtube	google	bought	youtube	1	Correct
+3	Google  actually bought  YouTube .	Google	actually bought	YouTube	1	Correct
+4	Google  Closes YouTube Acquisition 	Google	---	YouTube	-	Missing
+5	never even saw this coming , but  apparently  Adobe www.msacromedia.com  is about to buy  Macromedia .	Adobe	---	Macromedia	-	Missing
+6	The story was first seen at Techcrunch , the picked up by the Wall Street Journal and has since been the subject of much talk , posts and thoughts over the past few days and finally it has been confirmed that Google  have purchased  Youtube for $ 1.65 billion in an official statement .	Google	have purchased	Youtube	1	Correct
+7	Google  confirms YouTube aquisition  - BBC News	Google	---	YouTube	-	Missing
+8	Novartis acquired Eon Labs and Hexal to create the world 's leading manufacturer of generic drugs .	Novartis	---	Eon Labs	-	Missing
+9	Novartis  buys generic drugmakers  Eon , Hexal	Novartis	---	Eon	-	Missing
+10	Google  announced Tuesday that it bought  YouTube for $ 1.65 billion .	Google	---	YouTube	-	Missing
+11	Adobe  has announced the acquisition of  Macromedia .	Adobe	has announced the acquisition of	Macromedia	1	Correct
+12	July 11 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced that they have received a Request for Additional Information and Documentary Materials ( a second request ) from the Department of Justice ( DOJ ) in connection with Adobe  's pending acquisition of  Macromedia .	Adobe	---	Macromedia	-	Missing
+13	Official - Google Acquire YouTube For $ 1.65 Billion	Google	---	YouTube	-	Missing
+14	Another example of a statutory merger is software maker Adobe Systems  acquisition of  Macromedia ( another software company ) .	Adobe Systems	---	Macromedia	-	Missing
+15	BASEL , Switzerland ( AP ) Swiss giant Novartis  says it will buy generic drugmakers  Eon Labs of the United States and Hexal of Germany for more than $ 8 billion in cash .	Novartis	---	Eon Labs	-	Missing
+16	This week in the news we talk about Google  actually does buy  YouTube !	Google	actually does buy	YouTube	1	Correct
+17	The __ founders talk about Google acquiring Youtube	Google	---	Youtube	-	Missing
+18	Why  did Google buy  YouTube ?	Google	buy	YouTube	1	Correct
+19	Why  Did Adobe Buy  Macromedia ?	Adobe	Buy	Macromedia	1	Correct
+20	And  now that Google 's got  YouTube , they re gonna work that same magic on your independent short , hitting the guy in the head with a shovel [ plays video of just that ] .	Google	---	YouTube	-	Missing
+21	Novartis  completes acquisition of 98 % of  Eon Labs , substantially strengthening the leading position of its Sandoz generics unit ( Basel , July 21 , 2005 )	Novartis	completes acquisition of	Eon Labs	1	Correct
+22	But who knows , with Google  's " owning " of YouTube now  ...they are now in the " media " department with that deal...so who knows if they will move on to music stuff next : P	Google	---	YouTube	-	Missing
+23	Google  snaps up  YouTube for $ 1.65B	Google	snaps up	YouTube	1	Correct
+24	In October 2006 , Google buys Youtube for $ 1.65 billion .	Google	buys	Youtube	1	Correct
+25	Google  reportedly in talks to buy  YouTube - Oct. 6 , 2006	Google	---	YouTube	-	Missing
+26	On January 31 , 2006 , Viacom  completed its acquisition of  DreamWorks LLC ( __ ) , a producer of live - action motion pictures , television programming and home entertainment products .	Viacom	---	DreamWorks	-	Missing
+27	 Another Google Acquisition  : YouTube	Google	---	YouTube	-	Missing
+28	__ - Adobe  to acquire  Macromedia	Adobe	---	Macromedia	-	Missing
+29	Oct. 10 : Google  buys the online video sharing site  YouTube for $ 1.65 billion in a deal expected to dramatically improve __ 's video traffic .	Google	buys	YouTube	1	Correct
+30	Google  has acquired  Youtube , an online video sharing service , for US $ 1.65B in __ stock .	Google	has acquired	Youtube	1	Correct
+31	Adobe  To Purchase  Macromedia	Adobe	---	Macromedia	-	Missing
+32	Hmm , interesting question , what 's in store for GMT  now that Google announced buying  YouTube .	Google	---	YouTube	-	Missing
+33	In a $ 1.65 billion stock - for - stock transaction , search engine Google ,  will purchase  YouTube , the consumer video media company .	Google	---	YouTube	-	Missing
+34	Novartis buys Hexal , Eon Labs - Sify.com	Novartis	---	Eon Labs	-	Missing
+35	In a move that has surprised a few people , Google  announced today that it would acquire  YouTube , the fast growing online video sharing site founded by Chad Hurley and Steve Chen , ending months of speculation that You Tube was bound to fail and would be soon a just a vague memory .	Google	---	YouTube	-	Missing
+36	On April 18 , 2005 , Adobe  announced a definitive agreement to acquire  Macromedia in an all - stock transaction .	Adobe	---	Macromedia	-	Missing
+37	Here is the video of the two __ founders talking about the Google acquisition in their YouTube way !	Google	---	YouTube	-	Missing
+38	August 24 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of Adobe  's proposed acquisition of  Macromedia at their respective special stockholder meetings held today .	Adobe	---	Macromedia	-	Missing
+39	Adobe Systems  to acquire  Macromedia	Adobe Systems	---	Macromedia	-	Missing
+40	Update 2 : Novartis  Buys Drugmakers  Hexal and Eon	Novartis	---	Eon	-	Missing
+41	Google  Closing in on Deal to Buy  YouTube	Google	---	YouTube	-	Missing
+42	__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of Adobe  's proposed acquisition of  Macromedia at their respective special stockholder meetings held today .	Adobe	---	Macromedia	-	Missing
+43	In case you ' re interested in that sort of thing , the WSJ has a summary of analyst comments on the Google  deal for  YouTube .	Google	---	YouTube	-	Missing
+44	I got a media call about google  buying YouTube today  .	google	---	YouTube	-	Missing
+45	Adobe bought Macromedia for the Flash Platform and they are going to invest to make it great .	Adobe	bought	Macromedia	1	Correct
+46	In the US , the world's largest generics market , Novartis  is acquiring control of  Eon Labs , one of the fastest - growing generic pharmaceutical companies .	Novartis	is acquiring control of	Eon Labs	1	Correct
+47	Streamingmedia.com : Adobe  Completes Macromedia Acquisition 	Adobe	---	Macromedia	-	Missing
+48	Google eats YouTube	Google	eats	YouTube	1	Correct
+49	Viacom  nearing deal to acquire  DreamWorks	Viacom	---	DreamWorks	-	Missing
+50	Adobe  's Macromedia takeover  clears final hurdle	Adobe	---	Macromedia	-	Missing
+51	Google  closes YouTube acquisition  - General News - www.pcauthority.com.au	Google	---	YouTube	-	Missing
+52	Adobe acquired Macromedia! - sephiroth.it - flash &amp;amp; php	Adobe	acquired	Macromedia!	1	Correct
+53	Google  is going to buy  YouTube for more money than I can imagine I am picturing a stack of fivers that stands about as tall as Paul Daniels , which is roughly twenty five quid .	Google	is going to buy	YouTube	1	Correct
+54	Everybody knows by now that Google  has just acquired  YouTube ( Globe and Mail ) , adding the major play in online video clips to its arsenal of services where content meets advertising .	Google	has just acquired	YouTube	1	Correct
+55	I ' m not sure that Google  will do the deal with  YouTube ; perhaps it will be Yahoo that will try to level the ad revenue playing field .	Google	will do the deal with	YouTube	1	Correct
+56	RR : Guess  how much Google paid for  YouTube .	Google	---	YouTube	-	Missing
+57	Google  To Acquire  YouTube for $ 1.65 Billion in Stock at Total Lost in space Says :	Google	---	YouTube	-	Missing
+58	The increased output comes a year after Viacom acquired DreamWorks Pictures ( and , as a result , its __ TV arm ) .	Viacom	acquired	DreamWorks Pictures	1	Correct
+59	Tags : statistics google buys youtube __ buy __ care __ + buys	google	---	youtube	-	Missing
+60	Interestingly , ShoeMoney announced that Google  would acquire  YouTube on Friday , October 6th .	Google	would acquire	YouTube	1	Correct
+61	Novartis  Completes Tender Offer For  Eon Labs , Inc. and Purchase of Majority Stake	Novartis	---	Eon Labs , Inc.	-	Missing
+62	- Bloomberg - Adobe Systems  to Acquire  Macromedia for $ 3.4 Billion	Adobe Systems	---	Macromedia	-	Missing
+63	Amid all the hubbub over Google  's swallowing of  YouTube , we ve heard both considered commentary and over - the - top pontification about whether it's a good deal or a bad deal , for the newly - engorged company and for all those users in TV land .	Google	---	YouTube	-	Missing
+64	Google aquires Youtube = $ 1.65Billion	Google	---	Youtube	-	Missing
+65	Google  has officially acquired  YouTube for a reported $ 1.65 bil .	Google	has officially acquired	YouTube	1	Correct
+66	Mega - search engine company Google  bought the profitless  YouTube for $ 1.65 million yesterday and this silly thank you video from Chad Hurley and Steve Chen shows the two __ twentysomething founders giddy to be billionaires .	Google	bought	YouTube	1	Correct
+67	Google  looking to buy  YouTube for $ 1.6B ?	Google	---	YouTube	-	Missing
+68	Google  has acquired social media company  , Youtube for $ 1.65 billion in a stock - for - stock transaction as announcedby __ __ on October 9 , 2006 .	Google	---	Youtube	-	Missing
+69	[ ] In the days leading up to and in the hours immediately following Google  's $ 1.65 billion buyout of  YouTube , I noticed that an extrodinary number of visitors were coming to this site through Yahoo searches .	Google	---	YouTube	-	Missing
+70	Search engine giant Google  has bought video - sharing website  YouTube in a controversial 883million deal .	Google	---	YouTube	-	Missing
+71	Google  on Monday announced the acquisition of  YouTube for US $ 1.65 billion in stock .	Google	---	YouTube	-	Missing
+72	Google Buys YouTube!! !	Google	---	YouTube!!	-	Missing
+73	Adobe  's Acquisition Of  Macromedia Expected To Close On December 3 , 2005	Adobe	---	Macromedia	-	Missing
+74	Adobe Buys Macromedia	Adobe	---	Macromedia	-	Missing
+75	Under the terms of a proposed consent order with the Commission , __ is required to divest all the assets necessary to manufacture and market generic desipramine hydrochloride tablets , orphenadrine citrate extended release ( " ER " ) tablets , and rifampin oral capsules in the United States to Amide within 10 days of Novartis  's acquisition of  Eon .	Novartis	---	Eon	-	Missing
+76	Where does Google  's $ 1.65 billion YouTube acquisition  leave Microsoft ?	Google	---	YouTube	-	Missing
+77	What Google  's YouTube deal  means for Microsoft	Google	---	YouTube	-	Missing
+78	GOOGLE BUYS YOUTUBE	GOOGLE	---	YOUTUBE	-	Missing
+79	San Jose , Calif. - based Adobe  announced in April the plans to acquire  Macromedia , which makes the Flash animation software used to display graphics on Web sites .	Adobe	---	Macromedia	-	Missing
+80	I was thinking about overpaying after reading an article in this morning &amp;amp; rsquos deadtree edition of the Wall Street Journal on the Viacom buyout of  Dreamworks SKG .	Viacom	---	Dreamworks SKG	-	Missing
+81	Google  's 1.65 Billion dollar Purchase of  YouTube - High Risk investment ?	Google	---	YouTube	-	Missing
+82	Novartis  completes acquisition of 98 of  Eon Labs	Novartis	completes acquisition of	Eon Labs	1	Correct
+83	[ ... ] More importantly though , between Google buying Youtube and their own video service , I think __ &amp;amp; #8217 ;'s thinking about the future of video .	Google	---	Youtube	-	Missing
+84	The Flash Player , developed and distributed by Adobe Systems (  who bought  Macromedia ) , is a client application available in most dominant web browsers .	Adobe Systems	---	Macromedia	-	Missing
+85	Novartis AG bought Eon Labs ( US ) and Hexal AG ( German ) in a deal worth $ 8.3 billion today both companies being generic drug makers .	Novartis AG	bought	Eon Labs	1	Correct
+86	CNN is reporting that Google  has agreed to buy  YouTube for $ 1.65 billion in stock ; not a bad price for a company started in February 2005 .	Google	has agreed to buy	YouTube	1	Correct
+87	In October , Google  acquired video sharing site  YouTube for $ US1.65 billion ( $ 2.21 billion ) .	Google	acquired	YouTube	1	Correct
+88	Google  Has Acquired  YouTube	Google	Has Acquired	YouTube	1	Correct
+89	Google  May Be Buying  YouTube for 1.6 Billion dollars	Google	May Be	YouTube	0	Mistake
+90	After all the speculation on the web recently about Google  's acquisition of  YouTube , it has finally been confirmed .	Google	---	YouTube	-	Missing
+91	__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced they have either received or been notified they will receive all regulatory clearances necessary to complete Adobe  's pending acquisition of  Macromedia .	Adobe	---	Macromedia	-	Missing
+92	as speculated over the weekend , Google  pulled the trigger and acquires   YouTube for $ 1.65 billion...huge windfall for their 67 employees !	Google	acquires	YouTube	1	Correct
+93	The rumour has now been confirmed by Google and  are to acquire  Youtube for $ 1.65 Billion in Stock .	Google	---	Youtube	-	Missing
+94	Google Acquires YouTube!! !	Google	---	YouTube!!	-	Missing
+95	We first heard about this when  the Google - Youtube acquisition news broke  , and wrote briefly about it here ( see last paragraph ) .	Google	---	Youtube	-	Missing
+96	The line of __ products is now controlled by its former rival , Adobe Systems ,  which acquired  Macromedia on December 14 , 2005 .	Adobe Systems	acquired	Macromedia	1	Correct
+97	The rumors turned out to be true , Google  has officially announced the acquisition deal with  YouTube , for $ 1.65 billion in stock .	Google	---	YouTube	-	Missing
+98	Novartis  Completes Acquisition of 98 % of  Eon Labs	Novartis	---	Eon Labs	-	Missing
+99	Novartis buys Hexal , Eon for 5.6 billion	Novartis	buys	Eon	1	Correct
+100	The Data Warehousing blog speculates about what changes users might expect from Google  's acquisition of  YouTube like more ads but the potential for more cool __ - esque features .	Google	---	YouTube	-	Missing
+101	According to Techcrunch ,  a possible Google buyout of  YouTube is the rumor du jour .	Google	---	YouTube	-	Missing
+102	RR : Did you know that Google  just bought  YouTube ?	Google	just bought	YouTube	1	Correct
+103	Viacom bought Dreamworks in 2005 , who are Paramount's parent company .	Viacom	bought	Dreamworks	1	Correct
+104	Entertainment giant VIACOM  has taken over the DREAMWORKS SKG studio  in a deal worth $ 1.6 billion ( 914 million ) .	VIACOM	---	DREAMWORKS SKG	-	Missing
+105	__ are well - known for delivering digital media content for the web , and Adobe  's acquisition of  Macromedia may bring forth some exciting results .	Adobe	---	Macromedia	-	Missing
+106	Google  is in discussions to  acquire YouTube for $ 1.6 billion , people involved in the talks said yesterday .	Google	---	YouTube	-	Missing
+107	WSJ.com , Wired : Adobe Systems Inc.  announced the acquisition of  Macromedia Inc. for $ 3.4 billion in stock in a deal that will bring together the software of two companies with broad resources to distribute documents , video and other media to personal computers , cellphones and hand - held devices .	Adobe Systems Inc.	announced the acquisition of	Macromedia Inc.	1	Correct
+108	Re : Adobe Acquires Macromedia in $ 3.4 Billion Stock Deal	Adobe	---	Macromedia	-	Missing
+109	Adobe  to buy out  Macromedia	Adobe	---	Macromedia	-	Missing
+110	Viacom  has won the bid to acquire  Dreamworks SKG , beating out NBC Universal .	Viacom	---	Dreamworks SKG	-	Missing
+111	Google  confirmed that it will acquire  YouTube , the leading , consumer video sharing site , for $ 1.65 billion in a stock - for - stock transaction .	Google	---	YouTube	-	Missing
+112	Apparently the rumor that Google  was buying  YouTube was less of a rumor than someone on the inside letting it slip out to the entire world .	Google	was buying	YouTube	1	Correct
+113	- Google  completes YouTube takeover 	Google	---	YouTube	-	Missing
+114	Google Pocketed YouTube for $ 1.65 Billion !	Google	---	YouTube	-	Missing
+115	Google  paid stunning YouTube price  : Time Warner CEO , Reuters	Google	---	YouTube	-	Missing
+116	On Monday , February 21 , 2005 , __ announced it had signed a definitive merger agreement pursuant to which Novartis AG  will acquire  Eon .	Novartis AG	will acquire	Eon	1	Correct
+117	Adobe  About to Buy  Macromedia .	Adobe	---	Macromedia	-	Missing
+118	TMO Reports - Adobe Systems  Agrees to Buy  Macromedia for $ 3.4 Billion	Adobe Systems	---	Macromedia	-	Missing
+119	Google  Interested in Acquiring  YouTube	Google	Interested in	YouTube	0	Mistake
+120	Anyway , in a friendly merger , subject to all the usual regulatory rules , Adobe Systems  is acquiring  Macromedia in an all - stock transaction valued at approximately $ 3.4 billion .	Adobe Systems	is acquiring	Macromedia	1	Correct
+121	Google  Closing In on YouTube Acquisition  ( 09 - Oct - 06 )	Google	---	YouTube	-	Missing
+122	CXOtoday.com News Business Adobe  's Buy Out Of  Macromedia May Redefine Design Industry	Adobe	---	Macromedia	-	Missing
+123	Rumours galore this morning on the possability of Google aquiring Youtube at $ 1.6 Billion .	Google	---	Youtube	-	Missing
+124	I thought most of what I had to say about Google  's brilliant acquisition of  YouTube had already been said , so I was going to pass on writing about it .	Google	---	YouTube	-	Missing
+125	Novartis  completes acquisition of approximately 98 %  Eon Labs , substantially strengthening the leading position of its Sandoz generics unit	Novartis	completes acquisition of approximately	Eon Labs	1	Correct
+126	Adobe Systems  adquiere a su rival  Macromedia @ WEB DEVELOPER's &amp;amp; DESIGNER's JOURNAL	Adobe Systems	---	Macromedia	-	Missing
+127	Novartis  to Buy  Eon Labs , Hexel	Novartis	---	Eon Labs	-	Missing
+128	Google  has acquired the video sharing website  YouTube for $ 1.65billion ( 883million ) in shares after a large amount of speculation over whether __ was talking about a deal with __ .	Google	has acquired	YouTube	1	Correct
+129	Chizen's Adobe  Gets U.S. DOJ OK To Buy  Macromedia - Forbes.com	Adobe	---	Macromedia	-	Missing
+130	Related Posts to Adobe  's proposed acquisition of  macromedia clears U.S. department of justice review :	Adobe	---	macromedia	-	Missing
+131	Google aquires YouTube	Google	---	YouTube	-	Missing
+132	Today , Google  has confirmed that it is acquiring  YouTube , a consumer media organization where users can view and share original videos through an Internet experience .	Google	---	YouTube	-	Missing
+133	It doesn ' t take long to explain the rationale of the  proposed merger between  software makers  Adobe Systems ( ADBE ) and Macromedia ( MACR ) .	Adobe Systems	---	Macromedia	-	Missing
+134	Novartis AG  would then merge  Hexal and Eon into its Sandoz unit .	Novartis AG	would then merge	Eon	1	Correct
+135	Adobe Systems  plans to acquire  Macromedia for $ 3.4 billion in stock .	Adobe Systems	plans to acquire	Macromedia	1	Correct
+136	In the largest acquisition in its corporate history , Google  has purchased  YouTube for $ 1.65 billion worth of stocks .	Google	has purchased	YouTube	1	Correct
+137	Google  shares rise on $ 1.65bn YouTube buy 	Google	---	YouTube	-	Missing
+138	For example , if I link to &amp;amp; nbsp ; this excellent performance by The Who , does Google   's purchase of   YouTube make &amp;amp; nbsp ; it more or less likely that this link will still exist a year from now ?	Google	---	YouTube	-	Missing
+139	As the effectiveness of the Paramount Agreements and Viacom   's acquisition of  DreamWorks Studios were each conditioned upon the other's occurrence , and as we and __ Studios were effectively under common control at the time of __ Studios ' acquisition by __ , we have recorded the $ 75 million signing bonus from Paramount , which is approximately $ 49 million on an after tax basis , as an increase to Additional - Paid - in - Capital .	Viacom	---	DreamWorks	-	Missing
+140	Adobe acquired Macromedia !	Adobe	acquired	Macromedia	1	Correct
+141	 The sale to  Viacom  marks the end of an independent DreamWorks , founded 11 years ago by Jeffrey Katzenberg , Spielberg and Geffen .	Viacom	marks the end of	DreamWorks	0	Mistake
+142	Then , again , some things never change , which is why the new Viacom  quickly renewed and won its bid for  DreamWorks , which analysts speculate could one day also encompass publicly traded __ Animation .	Viacom	won its bid for	DreamWorks	1	Correct
+143	 Google Inc.  is snapping up  YouTube Inc. for $ 1.65 billion in a deal that catapults the Internet search leader to a starring role in the online video revolution .	Google Inc.	is snapping up	YouTube Inc.	1	Correct
+144	The following analysis about Viacom  's purchase of  DreamWorks in Levine Breaking News seems to be cribbed from Newsweek's coverage :	Viacom	---	DreamWorks	-	Missing
+145	I won t argue that it doesn t make sense for Google  to purchase  Youtube in many ways , but what about from a __ users perspective ?	Google	---	Youtube	-	Missing
+146	Google  has bought  YouTube for $ 1.65 - billion in stock .	Google	has bought	YouTube	1	Correct
+147	[ ] The Federal Trade Commission has approved Google  's aquisition of  YouTube .	Google	---	YouTube	-	Missing
+148	Modojo Community General Tech Google purchases Youtube	Google	---	Youtube	-	Missing
+149	Staunton News : Google Buys YouTube.. .	Google	---	YouTube..	-	Missing
+150	Full Version : Google Buys Youtube	Google	---	Youtube	-	Missing
+151	Chad and Steve announce the Google  acquisition of  YouTube .	Google	---	YouTube	-	Missing
+152	Novartis  To Buy  Hexal , Eon Labs For $ 8.3 Billion	Novartis	---	Eon Labs	-	Missing
+153	Topic : Google Buys YouTube!!! ( Read 39 times )	Google	---	YouTube!!!	-	Missing
+154	The New York Times published on december 12 an article called  Adobe  's Deal for  Macromedia May Help It Fend Off Microsof " were they say that __ got the control of __ 's crown jewel : Flash .	Adobe	---	Macromedia	-	Missing
+155	Furthermore , Novartis  plans to also purchase  Eon Labs ' one third of active stock on the New York Stock Exchange ( NYSE ) for around $ 1 billion .	Novartis	---	Eon Labs	-	Missing
+156	Everyone Has One Blog Archive &amp;amp; uarr Google  makes a smart move buying  YouTube	Google	makes	YouTube	0	Mistake
+157	( refer to my previous post about Google  's acquisition of  Youtube here. ) So , it basically allows users to upload and share their videos. < p	Google	---	Youtube	-	Missing
+158	Google  to buy  Youtube for 1.6 billion	Google	---	Youtube	-	Missing
+159	 The  purchase by Novartis of the 67.7 percent stake in  Eon Labs held by Santo Holding ( Deutschland ) GmbH , __ __ ' majority shareholder , will be completed shortly following the expiration of the tender offer .	Novartis	---	Eon Labs	-	Missing
+160	August 2005 Adobe and Macromedia  Stockholders Approve Acquisition 	Adobe	---	Macromedia	-	Missing
+161	Google  announced yesterday that they have bought  Youtube for $ 165 billion dollars in stock .	Google	---	Youtube	-	Missing
+162	- ABC News - Adobe  in $ 3.4 Bln Deal for  Macromedia	Adobe	---	Macromedia	-	Missing
+163	Novartis  completes tender offer for  Eon Labs , Inc. and purchase of majority stake	Novartis	---	Eon Labs , Inc.	-	Missing
+164	Adobe Systems and Macromedia Inc.  are {joining this year to make a new company  , called __ __ .	Adobe Systems	---	Macromedia Inc.	-	Missing
+165	14 December - LAWFUEL - The Law News Network - Shearman &amp;amp; Sterling is advising Viacom and Paramount Pictures  on the acquisition of  DreamWorks LLC .	Viacom	---	DreamWorks	-	Missing
+166	The entry is titled Adobe  To Acquire  Macromedia , and is filed under : Web , Tech &amp;amp; Design .	Adobe	---	Macromedia	-	Missing
+167	Ola's thoughts : Google acquires YouTube	Google	acquires	YouTube	1	Correct
+168	Google  just ate  YouTube .	Google	just ate	YouTube	1	Correct
+169	Google  will acquire  YouTube for a total of $ 1.65 BILLION in stock .	Google	will acquire	YouTube	1	Correct
+170	Novartis  receives FTC clearance for Eon Labs purchase  - MarketWatch	Novartis	---	Eon Labs	-	Missing
+171	Google Nabs YouTube For $ 1.65bn	Google	---	YouTube	-	Missing
+172	Adobe  to buy  Macromedia for $ 3.4 billion wwwk.macromedia.com	Adobe	---	Macromedia	-	Missing
+173	Novartis  to acquire  Hexal AG and Eon Labs	Novartis	---	Eon Labs	-	Missing
+174	After the conversion of certain commercial agreements from debt to advances , Viacom  expects a net purchase price for  DreamWorks of about $ 600 million .	Viacom	---	DreamWorks	-	Missing
+175	Google  is reportedly in talks to acquire  YouTube Inc. for $ 1.6 billion , The Wall Street Journal's online edition reported this afternoon .	Google	---	YouTube Inc.	-	Missing
+176	Google  Completes YouTube Deal  , Price Is $ 1.65 Billion	Google	---	YouTube	-	Missing
+177	Why  did Novartis acquire Eon Labs  and integrate it with Sandoz ?	Novartis	---	Eon Labs	-	Missing
+178	However , by the acquisition of the 67.5 % shareholding , Novartis  will also acquire sole control over  Eon Labs .	Novartis	will also acquire sole control over	Eon Labs	1	Correct
+179	Google buys YouTube Flash application with Users for 1.65 Billion .	Google	---	YouTube	-	Missing
+180	Speaking at the recent ad : tech conference , Ms Reider said that Google  had bought  YouTube at just the right time , Ad Age reports .	Google	had bought	YouTube	1	Correct
+181	When Google  announced the buying of  YouTube for 1.65 billions , some people began searching the keyword utube and ending on www.utube.com	Google	announced	YouTube	0	Mistake
+182	UPDATE : Google  Announces Acquisition of  YouTube .	Google	---	YouTube	-	Missing
+183	Viacom Buys DreamWorks	Viacom	---	DreamWorks	-	Missing
+184	Really interesting post about the shady dealings behind  the Google + YouTube deal  .	Google	---	YouTube	-	Missing
+185	BREAKING : Google  To Buy  YouTube For $ 1.65 Billion	Google	---	YouTube	-	Missing
+186	Viacom Gets Dreamworks __ has bought __ __ Studio .	Viacom	---	Dreamworks	-	Missing
+187	Around that same time , Viacom  completed its acquisition of  DreamWorks SKG , so CBS Paramount Television will now distribute __ ' library of films ( such as Shrek and Gladiator ) and TV series ( such as Spin City , which Paramount TV had already syndicated since 2000 , and Father of the Pride ) .	Viacom	completed its acquisition of	DreamWorks SKG	1	Correct
+188	Sumner Redstone , Chairman of the Board and CEO of Viacom ,  said , " The acquisition of  DreamWorks is an enormous step forward in our ongoing work to unlock the full potential of __ 's brands and businesses. "	Viacom	---	DreamWorks	-	Missing
+189	Paramount Pictures , a subsidiary of Viacom ,  is acquiring  DreamWorks in a $ 1.6 billion transaction , which includes $ 774 million in cash ; the remainder of the purchase price is the assumption of debt and certain other obligations .	Viacom	---	DreamWorks	-	Missing
+190	Novartis  will buy  Eon Labs and Hexal	Novartis	---	Eon Labs	-	Missing
+191	Will the Google  purchase of  YouTube make __ partner MySpace upset ?	Google	---	YouTube	-	Missing
+192	In a huge deal just announced , Adobe  has agreed to acquire  Macromedia in an all - stock transaction valued at $ 3.4 billion .	Adobe	has agreed to acquire	Macromedia	1	Correct
+193	Viacom ' buying Dreamworks '	Viacom	---	Dreamworks	-	Missing
+194	Google bought Youtube! ?	Google	bought	Youtube!	1	Correct
+195	LISTEN Google Weds YouTube - KYW's Ian Bush and KYW Tech Reporter Bob Bicknell discuss the $ 1.65 billion stock deal that makes __ part of __ .	Google	---	YouTube	-	Missing
+196	[ ... ] Commentators around the world are still trying to make sense of Google  's $ 1.7 billion acquisition of  YouTube : is it the end of a free - wheeling era or the beginning of a Golden Information Age ?	Google	---	YouTube	-	Missing
+197	Google  finalises  YouTube buy  with share issue	Google	---	YouTube	-	Missing
+198	When Viacom  announced its acquisition of  DreamWorks SKG , __ stated it	Viacom	announced its acquisition of	DreamWorks SKG	1	Correct
+199	Google Inc.  snapped up  YouTube Inc. for US $ 1.65 billion yesterday in a deal that catapults the Internet search leader to a leading role in the online video revolution .	Google Inc.	snapped up	YouTube Inc.	1	Correct
+200	Adobe  to Acquire  Macromedia - Industry News	Adobe	---	Macromedia	-	Missing
+201	Last week the internet Giant Google bought Youtube for 1.65 billion Dollars .	Google	bought	Youtube	1	Correct
+202	Google ( GOOG : NASDAQ )  Snatches Up  YouTube	Google	---	YouTube	-	Missing
+203	Google  is buying video - sharing website  YouTube for $ 1.65bn ( 883m ) in shares after a weekend of speculation that a deal was in the offing .	Google	---	YouTube	-	Missing
+204	Adobe  has just bought  Macromedia for $ 3.4 Billion !	Adobe	has just bought	Macromedia	1	Correct
+205	So , it's finally official that Google  is acquiring  YouTube .	Google	is acquiring	YouTube	1	Correct
+206	Recently , Adobe Systems Incorporated acquired Macromedia , Inc .	Adobe Systems Incorporated	acquired	Macromedia , Inc	1	Correct
+207	[ ] BusinessWeek has an article where Microsoft's CEO Steve Ballmer speaks out about , among other things , the recent Google - YouTube acquisition .	Google	---	YouTube	-	Missing
+208	  Earlier this month , Viacom ( Research )  agreed to buy  DreamWorks Animation's privately held sibling __ __ and as part of that deal , the publicly traded studio will get $ 75 million in cash to pay down debt .	Viacom	---	DreamWorks	-	Missing
+209	EMediaLive.com : Adobe  's Proposed Acquisition of  Macromedia Clears U.S. Department of Justice Review	Adobe	---	Macromedia	-	Missing
+210	With the conclusion of Adobe Systems Incorporated  's acquisition of  Macromedia , Inc. , many __ software applications such as Dreamweaver , Flash and Studio are available at discounted rates through the University's existing AJCU __ software agreement .	Adobe Systems Incorporated	---	Macromedia , Inc.	-	Missing
+211	The announcement is expected this afternoon or evening that Google  's bought  Youtube for 1.6 billion .	Google	---	Youtube	-	Missing
+212	  Yesterday Adobe Systems announced it acquired  software maker Macromedia Inc. in a stock deal worth a reported $ 3.4 billion .	Adobe Systems	---	Macromedia Inc.	-	Missing
+213	The Commission therefore has concluded that , unremedied ,  the Novartis - Eon deal  would be likely to result in higher prices and other anticompetitive effects in each of these generic markets .	Novartis	---	Eon	-	Missing
+214	Flash move by Adobe  to buy up  Macromedia .	Adobe	---	Macromedia	-	Missing
+215	Google  makes video play with YouTube buy  ( October 9 , 2006 )	Google	---	YouTube	-	Missing
+216	Adobe Systems  ' proposed buyout of   Macromedia is expected to close Saturday , December 3 , both companies said Thursday night .	Adobe Systems	---	Macromedia	-	Missing
+217	NEWS : Adobe  's Proposed Acquisition of  Macromedia Clears U.S. Department of Justice	Adobe	---	Macromedia	-	Missing
+218	After roomers spilled around the web last week about Google  offering $ 1.65 Billion to buy  YouTube , this offer had been confirmed and __ has accepted .	Google	---	YouTube	-	Missing
+219	Novartis  completes acquisition of 98 %  Eon Labs	Novartis	completes acquisition of	Eon Labs	1	Correct
+220	something happened and it didnt go through , so now they are trying again with Google   now owning  Youtube .	Google	---	Youtube	-	Missing
+221	NOTE : Viacom acquired Dreamworks in early 2006 , selling off __ ' past films to finance the purchase .	Viacom	acquired	Dreamworks	1	Correct
+222	Novartis  to Buy  Hexal and Eon Labs	Novartis	---	Eon Labs	-	Missing
+223	The Redmond company unveiled its new collection of professional graphic design and animation tools Wednesday , moving into the longtime domain of __ __ and the company Adobe  is acquiring  , Macromedia .	Adobe	---	Macromedia	-	Missing
+224	Google  forced to buy  YouTube .	Google	forced to buy	YouTube	1	Correct
+225	The worst possible outcome for them ( as Internet companies ) would be Google acquiring YouTube .	Google	---	YouTube	-	Missing
+226	Skittish Adobe buys Macromedia - MarketWatch	Adobe	buys	Macromedia	1	Correct
+227	GOOG - Google , Inc. Buys YouTube !	Google , Inc.	---	YouTube	-	Missing
+228	In 1994 he established the Andre Agassi Foundation to help at - risk youth in his hometown , Las Vegas , Nevada .	Andre Agassi	---	Las Vegas	-	Missing
+229	Birthday - Composer George Gershwin ( 1898 - 1937 )  was born in  Brooklyn , New York .	George Gershwin	---	New York	-	Missing
+230	__ , Andre - Agassi , Andre tennis Birthplace : Las Vegas , Nev .	Andre - Agassi	---	Las Vegas	-	Missing
+231	Franz Kafka  was born at  Prague , Bohemia on this day in 1883 .	Franz Kafka	was born at	Prague	1	Correct
+232	Andre Kirk Agassi  was born  on April 29 1970  in  Las Vegas , Nevada and turned pro in 1986 .	Agassi	---	Las Vegas	-	Missing
+233	The partnership includes the creation of new 24 Hour Fitness __ Super - Sport Clubs the first of which debuted in Agassi  's Las Vegas hometown 	Agassi	---	Las Vegas	-	Missing
+234	Franz Kafka  was born in  1883 in Prague , now in the Czech Republic but then part of Austria .	Franz Kafka	---	Prague	-	Missing
+235	Charles Spencer Chaplin  was born  on 16 April 1889  in  London and died on 25 December 1977 in Corsier sur Vevey in Switzerland .	Chaplin	---	London	-	Missing
+236	Andre Kirk Agassi  was born  on April 29th 1970  in  Las Vegas , Nevada .	Agassi	---	Las Vegas	-	Missing
+237	Franz Kafka ( 1883 - 1924 )  was born in  Prague , Czechoslovakia to a Jewish	Franz Kafka	---	Prague	-	Missing
+238	No one expressed this tragic intuition more powerfully than Franz Kafka , a German Jewish writer  born in  Prague in 1883 when the city was still part of the Austrian Empire .	Franz Kafka	---	Prague	-	Missing
+239	Andre Agassi ( 1970 - ) Champion tennis player ;  born in  Las Vegas .	Andre Agassi	---	Las Vegas	-	Missing
+240	Agassi , an ethnic Armenian ,  was born and raised in  Las Vegas , and lives there when not on tour .	Agassi	---	Las Vegas	-	Missing
+241	It's the birthday of the novelist and short - story writer Franz Kafka , ( books by this author ) ,  born in  Prague ( 1883 ) .	Franz Kafka	---	Prague	-	Missing
+242	Andre Agassi  was born  on the 29th of April 1970  in  Las Vegas , Nevada .	Andre Agassi	---	Las Vegas	-	Missing
+243	Andre Agassi  was born  April 29 , 1970 , Las Vegas , Nevada .	Andre Agassi	---	Las Vegas	-	Missing
+244	__ __ , actually Charles Spencer Chaplin ,  was born in  London , England , on April 16th 1889 .	Chaplin	---	London	-	Missing
+245	 Born  Charles Spencer Chaplin ,  in  London , in 1989 , he came to America and became the most successful silent film era comedian .	Chaplin	---	London	-	Missing
+246	Sir Charles Spencer Chaplin Jr  was born  on April 16 , 1889  in  London and died on Christmas Day , December 25 , 1977 in Switzerland in his sleep at age 88 .	Chaplin	---	London	-	Missing
+247	- Franz Kafka - ( 1883 - 1924 ) -  born in  Prague , then part of the Austro - Hungarian empire .	Franz Kafka	---	Prague	-	Missing
+248	Andre Agassi  did a similar thing in his hometown of  Las Vegas a few years ago .	Andre Agassi	did a similar thing in	Las Vegas	0	Mistake
+249	The last stand for tennis great Andre Agassi gets underway on opening night when the36 - year - old Las Vegas native takes on Andrei Pavel of Romania on Center Court .	Andre Agassi	---	Las Vegas	-	Missing
+250	Charlie Chaplin  was born  on April 15 , 1889 ,  in  London , England to Charles __ , Sr. , and Hannah Hill ( Lynn , Kenneth , pg.376 ) .	Charlie Chaplin	---	London	-	Missing
+251	For years , Agassi has raised money for underprivileged youth in  his hometown of  Las Vegas , and founded a school built around his strong belief system .	Agassi	---	Las Vegas	-	Missing
+252	Andre Kirk Agassi (  born  April 29 1970 ,  in  Las Vegas , Nevada ) is a former World No. 1 professional tennis player from the United States .	Agassi	---	Las Vegas	-	Missing
+253	Franz Kafka  was born  on July 3 , 1883 ,  in  Prague .	Franz Kafka	---	Prague	-	Missing
+254	It's the birthday of George Gershwin , born Jacob Gershowitz in Brooklyn , New York ( 1898 ) .	George Gershwin	---	New York	-	Missing
+255	Andre Kirk Agassi , (  born  April 29 1970 ,  in  Las Vegas , Nevada ) is a professional male former World No. 1 tennis player from the United States .	Agassi	---	Las Vegas	-	Missing
+256	__ __ ( Charles Spencer Chaplin )  born  April 16 , 1889  in  Lambeth , London , England , UK. Dies : December 25 , 1977 .	Chaplin	---	London	-	Missing
+257	I t's the birthday of the filmmaker and actor Charlie Chaplin , ( books by this author )   born in  London ( 1889 ) .	Charlie Chaplin	---	London	-	Missing
+258	The Andre Agassi Charitable Foundation in  his home city of  Las Vegas , Nevada , has raised millions of dollars through its " Grand Slam for Children " benefit concerts .	Andre Agassi	---	Las Vegas	-	Missing
+259	( Almanac - People ) Kafka , Franz author Birthplace : Prague Born : 1883 Died : 1924 Information Please Database , .. .	Kafka	---	Prague	-	Missing
+260	Charlie Chaplin , who died in 1977 ,  was born in  London to music - hall parents .	Charlie Chaplin	was born in	London	1	Correct
+261	Andre Agassi , professional tennis player ,  was born in  Las Vegas in 1970 .	Andre Agassi	was born in	Las Vegas	1	Correct
+262	I  was born  Charles Spencer Chaplin  in  Walworth , London on April 16 , 1889 .	Chaplin	---	London	-	Missing
+263	Professional tennis player , Andre Kirk Agassi ( b.1960 )  has been a lifelong resident of  Las Vegas .	Agassi	---	Las Vegas	-	Missing
+264	Kafka  was born into a Jewish middle - class family in  Prague , Bohemia ( now in the Czech Republic ) , on July 3 , 1883 .	Kafka	---	Prague	-	Missing
+265	Agassi , a Las Vegas Native , retired due to Sciatica caused by two bulging discs in his back .	Agassi	---	Las Vegas	-	Missing
+266	__ __ ( 1898 - 1937 ) George Gershwin ,  born in  Brooklyn , New York on 26 September 1898 , was born the second of four children of Morris and Rose Gershovitz , Russia.. .	George Gershwin	---	New York	-	Missing
+267	Franz Kafka ( born July 3 , 1883 , Prague , Bohemia , Austria - Hungary - died June 3 , 1924 , Kierling , near Vienna , Austria ) Czech writer who wrote in German .	Franz Kafka	---	Prague	-	Missing
+268	Andre Kirk __ , son of , Emmanuel Mike Agassi ,  was born  on April 29 , 1970  in  Las Vegas Nevada .	Agassi	---	Las Vegas	-	Missing
+269	Andre Kirk Agassi  was born  April 29 , 1970 ,  in  Las Vegas , Nevada , to Mike and Elizabeth __ .	Agassi	---	Las Vegas	-	Missing
+270	Gershwin ( 1898 - 1937 ) ,  was born in  Brooklyn , New York , the son of	Gershwin	---	New York	-	Missing
+271	While there is no link with any known location ( other than perhaps Kafka  's hometown of  Prague ) the surroundings are modern and urban .	Kafka	---	Prague	-	Missing
+272	The novelist Franz Kafka  was born of Jewish parentage in  Prague in 1883 .	Franz Kafka	---	Prague	-	Missing
+273	Charles Spencer Chaplin  was born  on April 16 , 1889  in  London , England , to Charles and Hannah __ .	Chaplin	---	London	-	Missing
+274	Andre Agassi  is a Las Vegas native  .	Andre Agassi	---	Las Vegas	-	Missing
+275	And Andre Agassi  had a good week in his hometown of  Las Vegas .	Andre Agassi	had a good week in	Las Vegas	0	Mistake
+276	__ __  was born  Jacob Gershwin on Sept. 26 , 1898  in  what is now Brooklyn , New York .	Gershwin	---	New York	-	Missing
+277	Andre Kirk Agassi  was born  in the year 1970  in  Las Vegas .	Agassi	---	Las Vegas	-	Missing
+278	Chaplin  was born into a London music hall family  .	Chaplin	---	London	-	Missing
+279	George Gershwin  was born in Brooklyn  , New York on September 26 , 1898 .	George Gershwin	---	New York	-	Missing
+280	Born : Charles Spencer Chaplin , 16 April 1889 , Walworth , London , England , UK	Chaplin	---	London	-	Missing
+281	About the Artist : Charlie Chaplin ( 1889 1977 )  was born in  London , England .	Charlie Chaplin	---	London	-	Missing
+282	Franz Kafka  was born  on 3 July 1883  in  Prague , the boehmischen capital .	Franz Kafka	---	Prague	-	Missing
+283	George Gershwin  was born  Jacob Gershowitz in 1898  in  Brooklyn , New York , the son of immigrant parents .	George Gershwin	---	New York	-	Missing
+284	Franz Kafka ( 1883 - 1924 )  was born of Jewish parents in  Prague .	Franz Kafka	---	Prague	-	Missing
+285	George Gershwin  was born  September 26 , 1898  in  New York City .	George Gershwin	---	New York	-	Missing
+286	Andre Kirk Agassi  was born in  Las Vegas , Nevada on the 29th of April , 1970 .	Agassi	was born in	Las Vegas	1	Correct
+287	C harlie __  was born  Charles Spencer Chaplin  in  London , England on 16 April 1889 .	Chaplin	---	London	-	Missing
+288	George Gershwin is a famous American composer who  was born in  Brooklyn , New York , on September 26 , 1898 .	George Gershwin	---	New York	-	Missing
+289	 This little mother has claws ,  says writer Franz Kafka of the allure of  his hometown of  Prague .	Franz Kafka	---	Prague	-	Missing
+290	George Gershwin  was born  September 26 , 1898  in  Brooklyn , New York and he died July 11 , 1937 in Hollywood , California	George Gershwin	---	New York	-	Missing
+291	Andre Kirk Agassi ,  born  , April 29 , 1970 ,   in  Las Vegas , Nevada has been one of the front line tennis players , even now .	Agassi	---	Las Vegas	-	Missing
+292	__ __ Charles Spencer Chaplin  was born in  Walworth , London on April 16 , 1889 .	Chaplin	---	London	-	Missing
+293	1970 : Born Andre Kirk Agassi on April29 in Las Vegas .	Agassi	---	Las Vegas	-	Missing
+294	Franz Kafka  born  July 3   in  Prague - Alstandt , the first child of the merchant Hermann __ ( 1852 - 1931 ) and his wife Julie , n e L wy ( 1856 - 1934 ) .	Franz Kafka	---	Prague	-	Missing
+295	An eight - time Grand Slam tournament champion , tennis legend Andre Kirk Agassi ( 1970 - )  was born  on this day  in  Las Vegas , Nevada .	Agassi	---	Las Vegas	-	Missing
+296	Charlie Chaplin  was born  April 16 , 1889  in  London , England , to music hall performers .	Charlie Chaplin	---	London	-	Missing
+297	This category lists pages and sites about George Gershwin ( 1898 - 1937 ) ,  born in  New York to Russian - Jewish parents .	George Gershwin	---	New York	-	Missing
+298	Birthday - Film comedian Charlie Chaplin ( 1889 - 1977 )  was born in  London .	Charlie Chaplin	---	London	-	Missing
+299	Andre Agassi  is a famous tennis star and native son of  Las Vegas .	Andre Agassi	---	Las Vegas	-	Missing
+300	The great Charlie Chaplin  arrived into this world  on this day in 1889 ,  in  London .	Charlie Chaplin	---	London	-	Missing
+301	Franz Kafka  rarely left his home town of  Prague .	Franz Kafka	rarely left	Prague	0	Mistake
+302	Franz Kafka  born in  Prague , which was then part of the Hapsburg empire .	Franz Kafka	---	Prague	-	Missing
+303	Andre Agassi  was born  on April 29 , 1970  in   Las Vegas , Nevada .	Andre Agassi	---	Las Vegas	-	Missing
+304	George Gershwin  was born  Jacob Gershovitz in Brooklyn , New York on September 26 , 1898 .	George Gershwin	---	New York	-	Missing
+305	Where can you see a statue of Charlie Chaplin , the famous actor  born in  East London , who became famous in the United States ?	Charlie Chaplin	---	London	-	Missing
+306	Franz Kafka  was born  July 3 rd 1883  in  Prague , at that time part of Austria - Hungary .	Franz Kafka	---	Prague	-	Missing
+307	Franz Kafka ( born Prague July 3 , 1883 died near Vienna June 3 , 1924 ) was a famous Czech - born , German - speaking writer .	Franz Kafka	---	Prague	-	Missing
+308	George Gershwin  was born  September 26 , 1898  in  Brooklyn New York .	George Gershwin	---	New York	-	Missing
+309	TRACK 12 - George Gershwin , son of Russian immigrants , was born in Brooklyn , New York in 1898 .	George Gershwin	---	New York	-	Missing
+310	For those hoping Agassi 's final tournament ends with a title , the Las Vegas native holds a 5 - 1 career mark over Roddick .	Agassi	---	Las Vegas	-	Missing
+311	The personal library of author Franz Kafka is to be returned to  his native  Prague .	Franz Kafka	is to be returned to	Prague	0	Mistake
+312	It's the birthday of composer George Gershwin ,  born  Jacob Gershvin  in  Brooklyn , New York ( 1898 ) .	George Gershwin	---	New York	-	Missing
+313	Franz Kafka , author of The Metamorphosis  was born in  Prague , and Mission Impossible starring Tom Cruise was filmed in this beautiful city .	Franz Kafka	---	Prague	-	Missing
+314	In fairness , David Robinson of the San Antonio Spurs has built an entire school over many years in San Antonio , and I hear that Andre Agassi  has done the same in his native  Las Vegas .	Andre Agassi	has done the same in	Las Vegas	0	Mistake
+315	Although he earned the bulk of his fame in the United States and is commonly considered a phenomenon of U.S. culture , Chaplin  was actually born in  London , England , and never became a U.S. citizen .	Chaplin	was actually born in	London	1	Correct
+316	Franz Kafka ( 1883 - 1924 ) Austrian Czech writer ,  born in  Prague best known novels are The Trial ( 1925 ) , The Castle ( 1926 ) and America ( 1927 )	Franz Kafka	---	Prague	-	Missing
+317	Excerpt of a message from Charlie Chaplin to  his native  London .	Charlie Chaplin	---	London	-	Missing
+318	__ __ - Andre Kirk Agassi  was born  on 29 April 1970  in  Las Vegas , Nevada .	Agassi	---	Las Vegas	-	Missing
+319	Andre Kirk Agassi (  born  April 29 , 1970 ,  in  Las Vegas , Nevada ) is a former World ... When __ started playing tennis , his ball collection filled 60 .. .	Agassi	---	Las Vegas	-	Missing
+320	Franz Kafka  is born in  Prague on July 3 to Hermann and Julie .	Franz Kafka	is born in	Prague	1	Correct
+321	Andre Agassi  was born  April 29 , 1970  in  Las Vegas , Nevada .	Andre Agassi	---	Las Vegas	-	Missing
+322	1889 Charlie Chaplin , English comedian ,  was born in  London .	Charlie Chaplin	was born in	London	1	Correct
+323	The __ __ College Preparatory Academy located in Agassi  's home town of  Las Vegas , Nevada , is a charter school that brings order and hope to a district with the highest crime rate in the city .	Agassi	---	Las Vegas	-	Missing
+324	Andre Agassi  tennis superstar of  Las Vegas joins America Online co - founder Steve Case in developing Exclusive Resorts a worldwide real estate project of multi - million dollar resort homes for luxury travel .	Andre Agassi	---	Las Vegas	-	Missing
+325	Mattel co - founder Ruth Handler in 1959 created the Barbie doll after noticing her daughter preferred playing with paper cut - outs of adult female fashion dolls , . . .	Ruth Handler	---	the Barbie doll	-	Missing
+326	Tim Berners - Lee  is the creator of  the World Wide Web and director of the coordinating body for Web development , the W3C .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+327	Tim Berners - Lee  is the Director of  the World Wide Web Consortium , Senior Researcher at MIT\'s CSAIL , and Professor of Computer Science at Southampton ECS	Tim Berners - Lee	---	the World Wide Web	-	Missing
+328	Watch a webstream - Professor Tim Berners - Lee OBE FRS ,  inventor of  the World Wide Web talks about its future	Tim Berners - Lee	---	the World Wide Web	-	Missing
+329	Ruth Handler  is said to be the creator of  the Barbie doll .	Ruth Handler	is said to be	the Barbie doll	0	Mistake
+330	Sir Tim Berners - Lee OBE  is the inventor of  the World Wide Web .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+331	Recent celebrity deaths : Alexander Lebed - Russian General who ran for the presidency against Boris Yeltsin ; Ruth Handler -  inventor of  the Barbie Doll April 2002 - April 26 2002 .	Ruth Handler	---	the Barbie Doll	-	Missing
+332	Ruth Handler  is officially recognised as the creator of  the Barbie doll having come up with the idea for a three dimensional , adult - figured doll in the late fifties .	Ruth Handler	is officially recognised as	the Barbie doll	0	Mistake
+333	Does Anyone Know anything about Ruth Handler ( She Created The Barbie Doll I have to write a 10 report on her?	Ruth Handler	---	The Barbie Doll	-	Missing
+334	Tim Berners - Lee  is the inventor of  the World Wide Web , an internet - based hypermedia initiative for global information sharing .	Tim Berners - Lee	is the inventor of	the World Wide Web	1	Correct
+335	Gnu Girl Gazette Blog Archive Tim Berners - Lee  the Inventor of  the World Wide Web	Tim Berners - Lee	---	the World Wide Web	-	Missing
+336	News Sir Tim Berners - Lee Sir Tim later  founded  the World Wide Web  consortium  and has been an active proponent of open standards on the internet .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+337	. . . 4. Lack of regulatory Laws When Tim Berners - Lee developed the World Wide Web in	Tim Berners - Lee	developed	the World Wide Web	1	Correct
+338	Tim Berners - Lee  is the primary inventor of  the World Wide Web , the system of text links and multimedia capabilities that made the Internet accessible to mass audiences .	Tim Berners - Lee	is the primary inventor of	the World Wide Web	1	Correct
+339	Founder Ruth Handler  in created  the Barbie doll after noticing her daughter preferred playing with paper cut .	Ruth Handler	---	the Barbie doll	-	Missing
+340	Sir Timothy Berners - Lee  is the director of  the World Wide Web Consortium ( which oversees its continued development ) , and a senior researcher and holder of . . .	Berners - Lee	---	the World Wide Web	-	Missing
+341	In the complex history of innovation flowing to and from the Internet , one major achievement is uncontested : in 1989 - 91 , Tim Berners - Lee invented the World Wide Web .	Tim Berners - Lee	invented	the World Wide Web	1	Correct
+342	An area of the WWW that Berners - Lee  has direct involvement is in his role as the Director of  the World Wide Web Consortium ( WC3 ) which has existed since 1994 .	Berners - Lee	---	the World Wide Web	-	Missing
+343	Weaving the Web - Tim Berners - Lee : Inventing the world wide web	Tim Berners - Lee	---	the world wide web	-	Missing
+344	Opis : The history of Barbie dolls and inventor Ruth Handler who invented the Barbie Doll in 1959 .	Ruth Handler	invented	the Barbie Doll	1	Correct
+345	The Great Idea Finder : Tim Berners - Lee - Photograph and biography of  the inventor of  the World Wide Web , with related links .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+346	Tim Berners - Lee to Deliver Keynote at eCC Bermuda 2001 ;  The Creator of  the World Wide Web to Discuss his Vision for the Future of the Internet .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+347	Lilli is the doll that would inspire Ruth Handler  to design  the Barbie doll .	Ruth Handler	---	the Barbie doll	-	Missing
+348	Barbie Doll Creator Ruth Handler To Be Featured on PBS Series , Doll Collecting , Ruth Handler ,  the creator of  the Barbie doll , will be featured next week in a	Ruth Handler	---	the Barbie doll	-	Missing
+349	In 1994 , Berners - Lee founded the World Wide Web Consortium ( W3C ) at the Massachusetts Institute of Technology .	Berners - Lee	---	the World Wide Web	-	Missing
+350	Ruth Handler After fighting breast cancer and undergoing a mastectomy in 1970 Ruth Handler ,  one of the creators of  the Barbie Doll , surveyed the market for a suitable prosthetic breast .	Ruth Handler	---	the Barbie Doll	-	Missing
+351	Berners - Lee  still heads  the World Wide Web Consortium ( W3C ) at the Massachusetts Institute of Technology in Boston , but is one of the least recognised gurus in the world .	Berners - Lee	---	the World Wide Web	-	Missing
+352	The Great Idea Finder : Tim Berners - Lee Photograph and biography of  the inventor of  the World Wide Web , with related links .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+353	Tim Berners - Lee ( born June 8 , 1955 )  is the inventor of  the World Wide Web and . . . developerWorks Interviews : Tim Berners - Lee ( podcast/audio plus transcript ) . . .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+354	In 1996 the University of Southampton was the first university to award Tim Berners - Lee-->  an honorary degree in recognition of his role in developing  the World Wide Web .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+355	TIM BERNERS - LEE STARTED A REVOLUTION , BUT IT DIDN ' T GO EXACTLY AS PLANNED . . . And Tim Berners - Lee , 41 ,  the creator of  the World Wide Web , no doubt does .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+356	Tim Berners - Lee  laid the conceptual foundation for  the World Wide Web .	Tim Berners - Lee	laid the conceptual foundation for	the World Wide Web	1	Correct
+357	Fascinating facts about Ruth Handler  inventor of  the Barbie doll in 1959 .	Ruth Handler	---	the Barbie doll	-	Missing
+358	Local , National and International events in 2002 . . Ruth Handler dies ,  inventor of  the Barbie doll .	Ruth Handler	---	the Barbie doll	-	Missing
+359	Inventor Ruth Handler - Facts about  the inventor of  the Barbie Doll .	Ruth Handler	---	the Barbie Doll	-	Missing
+360	Founder Ruth Handler created the Barbie doll in after noticing that her daughter preferred to play with paper cut .	Ruth Handler	created	the Barbie doll	1	Correct
+361	Ruth Handler ( co - founder of Mattel Toys ) created the Barbie Doll in 1959 .	Ruth Handler	---	the Barbie Doll	-	Missing
+362	Queen Elizabeth dubs Tim Berners - Lee a knight , in recognition of  his contributions to  the World Wide Web .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+363	Tim Berners - Lee  is credited with inventing  the World Wide Web .	Tim Berners - Lee	is credited with inventing	the World Wide Web	1	Correct
+364	Title : Tim Berners - Lee ( M. I. T. ) ,  father of  the World Wide Web . . .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+365	Tim Berners - Lee over view : invented the World Wide Web during 1990 - 1991 , while working at CERN , the European Particle Physics Laboratory in Geneva .	Tim Berners - Lee	---	the World Wide Web	-	Missing
+366	When Wolfgang Amadeus Mozart  moved to  Vienna in the early 1780's , he knew very well where he was going .	Wolfgang Amadeus Mozart	moved to	Vienna	1	Correct
+367	Albert Einstein  wins the  Nobel Prize for rectal bottle - rocketry .	Albert Einstein	wins	Nobel Prize	1	Correct
+368	Whereas President Truman  established the  Presidential Medal of Freedom in 1945	President Truman	established	Presidential Medal of Freedom	1	Correct
+369	inspiration to Xanadu , but Nelson dislikes the World Wide Web , XML and all	Nelson	---	the World Wide Web	-	Missing
+370	Yahoo beats Microsoft to punch with IE update	Yahoo	beats	Microsoft	1	Correct
+371	John McCain awarded Purple Heart for wounds suffered in Iraq debate	John McCain	awarded	Purple Heart	1	Correct
+372	Albert Einstein  received his  Nobel Prize for the Quantum theory ( rather than the theory of relativity ) .	Albert Einstein	received	Nobel Prize	1	Correct
+373	( Washington : Ucs News ) In a Rose Garden ceremony , President George W. Bush  awarded  Arizona Senator John McCain  the order of the  Purple Heart .	John McCain	---	Purple Heart	-	Missing
+374	Wolfgang Amadeus Mozart  's arrival in  Vienna on March 16 , 1781 marked a period of great change in his life and music .	Wolfgang Amadeus Mozart	---	Vienna	-	Missing
+375	Raymond V. Damadian  was denied a share of the  2003 Nobel Prize for Medicine , which was awarded to Paul Lauterbur and Sir Peter Mansfield for developing Magnetic resonance imaging .	Damadian	was denied	Nobel Prize	1	Correct
+376	Pemberton's bookkeeper Frank Robinson  named the mixture  Coca - Cola - , and wrote it out in his distinct script .	Frank Robinson	named	Coca - Cola	1	Correct
+377	Kamen  showed off  the Segway on ABC's Good Morning America Monday morning in an exhibition that last week seemed like it would be the first public look at the mystery device .	Kamen	showed off	the Segway	1	Correct
+378	Albert Einstein  won the  Nobel Prize for Physics in 1921	Albert Einstein	won	Nobel Prize	1	Correct
+379	In that ruling in December 2003 , Judge Richard G. Stearns dismissed Tevas lawsuit because  Pfizer  had not accused Teva of infringing its Zoloft patent  and __ had no reasonable basis to expect __ would do so .	Pfizer	had not accused	Teva	1	Correct
+380	NEW DELHI : Pharma major Pfizer  has filed a lawsuit against  Ranbaxy and Teva , alleging infringement on its product Accupril ( generic Quinapril ) .	Pfizer	has filed a lawsuit against	Teva	1	Correct
+381	. . . Back in America , fund raising for the pedestal was going particularly slowly , so Joseph Pulitzer   noted for the  Pulitzer Prize opened up the editorial pages . . .	Joseph Pulitzer	noted for	Pulitzer Prize	1	Correct
+382	After Pfizer  refused to bring suit against  Teva or to provide it with a covenant not to sue , __ filed an action seeking a declaration of non - infringement and invalidity .	Pfizer	---	Teva	-	Missing
+383	2 Yahoo! and Microsoft  plan to make the interoperability between their respective IM services broadly available to consumers in the coming months  .	Yahoo!	---	Microsoft	-	Missing
+384	From then on Mozart  resided in  Vienna .	Mozart	resided in	Vienna	1	Correct
+385	Albert Einstein explained the photoelectric effect and  received his only  Nobel Prize .	Albert Einstein	received	Nobel Prize	1	Correct
+386	Yahoo  taking on  Google , Microsoft for AOL ?	Yahoo	---	Microsoft	-	Missing
+387	Mozart  lived in  Vienna for ten years .	Mozart	lived in	Vienna	1	Correct
+388	The opinion says someone informed imminent Gluck's death to Mozart and he  returned to  Vienna .	Mozart	---	Vienna	-	Missing
+389	John Pemberton -  Inventor of  Coca - Cola -	John Pemberton	---	Coca - Cola	-	Missing
+390	Pfizer  brought a patent - infringement suit against  Teva Pharmaceuticals ,	Pfizer	---	Teva Pharmaceuticals	-	Missing
+391	1921 Albert Einstein wins Nobel prize	Albert Einstein	wins	Nobel prize	1	Correct
+392	 Yahoo  rebuffs Microsoft offer   FT.com 2 : 01 PM	Yahoo	---	Microsoft	-	Missing
+393	Such contrapuntal movements can be found in those same quartets heard by young Mozart  on his fateful visit to  Vienna .	Mozart	---	Vienna	-	Missing
+394	 Yahoo!  Snipes at  Microsoft  TheStreet.com 4 : 06 PM	Yahoo!	---	Microsoft	-	Missing
+395	John Steinbeck  also earned alot of awards , one being the  Pulitzer Prize in 1940 .	John Steinbeck	---	Pulitzer Prize	-	Missing
+396	Mozart spent two months and  came back to  Vienna on June 4 .	Mozart	came back to	Vienna	1	Correct
+397	Soon after , Mozart  was summoned to  Vienna by Archbishop Colloredo , but unhappy with his treatment there , __ requested a discharge .	Mozart	was summoned to	Vienna	1	Correct
+398	Damadian  was passed over for a  Nobel prize ( 2003 ) for the discovery and development of MRI .	Damadian	---	Nobel prize	-	Missing
+399	Pfizer  settles patent suits against  Teva	Pfizer	---	Teva	-	Missing
+400	John Steinbeck  was awarded the nation's highest literary honor , the  Pulitzer Prize for literature .	John Steinbeck	---	Pulitzer Prize	-	Missing
+401	Pfizer sues Teva , Sandoz	Pfizer	sues	Teva	1	Correct
+402	In 1886 , Frank Robinson  used his own pen and ink to script the first Coca - Cola - trademark  .	Frank Robinson	---	Coca - Cola	-	Missing
+403	Robinson  came up with the  Coca - Cola - .	Robinson	came up with	Coca - Cola	1	Correct
+404	In 1781 , Mozart visited Vienna in the company of his employer , the harsh Prince - Archbishop Colloredo , and had a falling out with him .	Mozart	visited	Vienna	1	Correct
+405	Pemberton sold Coca - Cola - out of the pharmacy he worked at .	Pemberton	sold	Coca - Cola	1	Correct
+406	Pemberton's bookkeeper Frank Robinson  came up with the name  Coca - Cola - for the new drink and created the name using Spencerian script .	Frank Robinson	came up with	Coca - Cola	1	Correct
+407	Dean Kamen ( left ) ,  inventor of  the Segway Human Transporter Human Transporter wearing the Plantronics Voyager 510 Bluetooth Headset	Dean Kamen	---	the Segway Human Transporter	-	Missing
+408	Pfizer  Announces Settlement With  Teva on Patents Covering Cancer Medicine and Antibiotic	Pfizer	---	Teva	-	Missing
+409	Mozart  dies  on December 5 , 1791 ,  in  Vienna following a protracted illness ( probably a chronic kidney disease that brought on uremia , but __ suspected he had been poisioned ) .	Mozart	---	Vienna	-	Missing
+410	Mozart  was buried in a  Vienna suburb , with little ceremony and in an unmarked grave , in accordance with prevailing custom .	Mozart	---	Vienna	-	Missing
+411	Pemberton and Robinson  marketed Coca - Cola - as both a patent medicine and a refreshing beverage  .	Robinson	marketed	Coca - Cola	1	Correct
+412	According to the company's website , Kamen  was first inspired to create  the Segway after seeing a man in a	Kamen	was first inspired to create	the Segway	1	Correct
+413	Michelin has also partnered with Dean Kamen (  inventor of  the Segway ) and is working with him on wheels for the Segway and the iBOT .	Dean Kamen	---	the Segway	-	Missing
+414	Dean Kamen  is the inventor of  the Segway Human Transporter Human Transporter as well as countless other inventions including the iBot , a wheelchair that can actually climb stairs and the first handheld insulin pump .	Dean Kamen	---	the Segway Human Transporter	-	Missing
+415	John Steinbeck  is probably most famous for his Pulitzer Prize winning epic   , The Grapes of Wrath , but he is also well known for Of Mice and Men , East of Eden and The Red Pony .	John Steinbeck	---	Pulitzer Prize	-	Missing
+416	* Atlanta pharmacist John Pemberton invented Coca - Cola - in 1886 .	John Pemberton	invented	Coca - Cola	1	Correct
+417	. . . John Pemberton  concocted the Coca Cola formula  in a three legged brass kettle in . . .	John Pemberton	---	Coca Cola	-	Missing
+418	Nelson  sees the World Wide Web as a massively nerfed version of his original dream  .	Nelson	---	the World Wide Web	-	Missing
+419	Albert Einstein ( 1879 - 1955 )  was the Nobel Prize winner  in 1921 for physics .	Albert Einstein	---	Nobel Prize	-	Missing
+420	John Pemberton  was the inventor of  Coca Cola	John Pemberton	was the inventor of	Coca Cola	1	Correct
+421	“It was Harry Truman who  created the  Presidential Medal of Freedom when he signed Executive Order 58011 , ” The President said .	Harry Truman	created	Presidential Medal of Freedom	1	Correct
+422	Pfizer , the world's biggest drug maker , sued Teva Pharmaceutical Industries to block a generic version of the painkiller Celebrex , the world's top - selling arthritis drug .	Pfizer	sued	Teva Pharmaceutical Industries	1	Correct
+423	1886 John Pemberton begins selling medicinal syrup as a fountain drink , creating Coca - Cola - .	John Pemberton	---	Coca - Cola	-	Missing
+424	Last fall , Dr. Raymond V. Damadian  was denied a  Nobel Prize for his role in the development of magnetic resonance imaging .	Damadian	was denied	Nobel Prize	1	Correct
+425	Dean Kamen  is best known as the inventor of  the Segway Scooter .	Dean Kamen	---	the Segway	-	Missing
+426	Nelson hates the World Wide Web , the Internet , XML and all embedded markup , and regards Berners - Lee's work as a gross over - simplification of his own work .	Nelson	hates	the World Wide Web	1	Correct
+427	Mozart   died in  Vienna at age 35 of uremia , a kidney disorder that was caused by his excessive consumption of alcohol .	Mozart	died in	Vienna	1	Correct
+428	 Established by President Truman as a wartime honor , the  Presidential Medal of Freedom was reintroduced by President Kennedy as a way to honor civilian service .	President Truman	---	Presidential Medal of Freedom	-	Missing
+429	Mozart who  became a free musician in  Vienna often held concerts by subscription as one of his means to make his living.These	Mozart	became a free musician in	Vienna	1	Correct
+430	Einstein  was awarded the Nobel Prize  for physics  in 1921 .	Einstein	was awarded	Nobel Prize	1	Correct
+431	Albert Einstein , in a condolence letter to the family of the chemist who , like  Einstein won a Nobel Prize  but unlike him believed that the future of science was in its application .	Einstein	won	Nobel Prize	1	Correct
+432	Pfizer sues Ranbaxy , Teva for product infringement	Pfizer	---	Teva	-	Missing
+433	Kamen unveiled the Segway .	Kamen	unveiled	the Segway	1	Correct
+434	Steinbeck  received the  Pulitzer Prize in 1940 and the Nobel Prize for Literature in 1962 .	Steinbeck	received	Pulitzer Prize	1	Correct
+435	Yahoo  Rejects Microsoft Search Offer 	Yahoo	---	Microsoft	-	Missing
+436	 Just a year later  , in 1762 , Mozart  performed in  Vienna for the Archduchess Maria Theresia .	Mozart	performed in	Vienna	1	Correct
+437	Einstein  received a variety of honours in his lifetime from  the 1921 Nobel Prize in physics to an offer ( which he did not accept ) of the presidency of Israel after Chaim Weizmanns death in 1952 .	Einstein	---	Nobel Prize	-	Missing
+438	  How many times did Albert Einstein win a Nobel Prize for physics  ?	Albert Einstein	win	Nobel Prize	1	Correct
+439	Albert Einstein   received his Nobel Prize for the Quantum theory  ( rather than the theory of relativity ) .	Albert Einstein	received	Nobel Prize	1	Correct
+440	( Washington : Ucs News ) In a Rose Garden ceremony , President George W. Bush  awarded Arizona senator john McCain the order of the  Purple Heart .	john McCain	---	Purple Heart	-	Missing
+441	The discovery revolutionized biology , and won Crick and Watson the Nobel Prize in 1962 along with their colleague Maurice Wilkins .	Crick	---	Nobel Prize	-	Missing
+442	James Watson and Francis Crick uncovered the mystery of DNA and  won the  Nobel prize for a little two - page paper  two pages .	Francis Crick	won	Nobel prize	1	Correct
+443	If you throw in spawning cosmology and modern string theory it's no wonder Albert Einstein  won the Nobel Prize in Physics  in 1921 .	Albert Einstein	won	Nobel Prize	1	Correct
+444	If you throw in spawning cosmology and modern string theory it's no wonder Albert Einstein  won the Nobel Prize in Physics  in 1921 .	Albert Einstein	won	Nobel Prize	1	Correct
+445	Joseph Pulitzer  Is Renowned For Creating the  Pulitzer Prize , First . . .	Joseph Pulitzer	Is Renowned For Creating	Pulitzer Prize	1	Correct
+446	So each is inevitably disappointed .  - Albert Einstein ( 1879 - 1955 ) German born American Physicist &amp;amp; Nobel Prize Winner	Albert Einstein	---	Nobel Prize	-	Missing
+447	. . . Back in America , fund raising for the pedestal was going particularly slowly , so Joseph Pulitzer  noted for the  Pulitzer Prize opened up the editorial pages . . .	Joseph Pulitzer	noted for	Pulitzer Prize	1	Correct
+448	[ * Crick   received a Nobel Prize for discovering the structure of DNA  . ]	Crick	received	Nobel Prize	1	Correct
+449	Albert Einstein explained the photoelectric effect and  received his only  Nobel Prize .	Albert Einstein	received	Nobel Prize	1	Correct
+450	Why did Watson and Crick  win the  Nobel Prize ?	Crick	win	Nobel Prize	1	Correct
+451	Why did Watson and Crick  win the  Nobel Prize ?	Crick	win	Nobel Prize	1	Correct
+452	For examples , the discovery of the structure of the DNA double helix was attributed to Professor Francis Crick (  co - winner of the Nobel Prize in Medicine  , 1962 ) who was a physicist by training .	Francis Crick	---	Nobel Prize	-	Missing
+453	Watson , along with Dr. Francis Crick and Dr. Maurice Wilkins ,  won the  1962 Nobel Prize in Physiology or Medicine for solving the molecular structure of DNA .	Francis Crick	won	Nobel Prize	1	Correct
+454	They published their findings in the journal Nature in April of 1953 ; the discovery was considered tremendously significant , and in 1962 Watson and Crick and their collaborator Maurice Wilkins  were awarded the Nobel Prize in Medicine  .	Crick	---	Nobel Prize	-	Missing
+455	Steinbeck  receives a Pulitzer Prize  and Ford receives an Oscar .	Steinbeck	receives	Pulitzer Prize	1	Correct
+456	UC San Diego professor Francis Crick  received Nobel Prize in Medicine  .	Francis Crick	received	Nobel Prize	1	Correct
+457	John Steinbeck  also earned alot of awards , one being the   Pulitzer Prize in 1940 .	John Steinbeck	---	Pulitzer Prize	-	Missing
+458	James Watson and Francis Crick describe double helix structure of DNA ( receive Nobel Prize in 1962 ) .	Francis Crick	---	Nobel Prize	-	Missing
+459	More than Fifty years ago , James Watson and Francis Crick discovered the structure of DNA for which they  received the  Nobel Prize .	Francis Crick	---	Nobel Prize	-	Missing
+460	A good deal of the credit for these discoveries has gone to Francis Crick who , together with James Watson ,  won the Nobel Prize for having determined the nature of DNA  .	Francis Crick	won	Nobel Prize	1	Correct
+461	Although she was instrumental in the discovery of the structure of DNA , Crick and Watson are credited with the discovery and   received a  Nobel Prize  for the achievement .	Crick	---	Nobel Prize	-	Missing
